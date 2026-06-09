@@ -732,9 +732,9 @@ h2 em {
 }
 
 .footer-bottom img {
-  height: 82px;
+  height: auto;
   object-fit: contain;
-  width: 76px;
+  width: clamp(140px, 11vw, 180px);
 }
 
 .footer-bottom p:last-child {

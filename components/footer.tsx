@@ -25,9 +25,9 @@ export function Footer() {
       <div className="footer-bottom">
         <Image
           alt="Evergreen Arts Centre"
-          height={112}
-          src="/brand/evergreen-arts-logo-transparent.webp"
-          width={103}
+          height={196}
+          src="/brand/evergreen-arts-logo-footer.webp"
+          width={180}
         />
         <p>Leaving an Everlasting Legacy · Lephalale, Limpopo</p>
         <p>© {new Date().getFullYear()} Evergreen Arts Centre</p>
